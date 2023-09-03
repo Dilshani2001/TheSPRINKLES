@@ -1,0 +1,104 @@
+<html>
+<head>
+ <style>
+body
+{
+    margin: 0;
+    padding: 0;
+	background-color: white;
+    font-family: 'Arial';
+}
+.product{
+        width: 450px;
+        overflow: hidden;
+        margin: 40px;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background: #6abadeba;
+        border-radius: 15px ;
+
+}
+form{
+	padding-top:50px;
+}
+h1{
+    text-align: center;
+    color:#6a716f;
+    
+}
+label{
+    color: #329d37;
+    font-size: 17px;
+}
+#Productid{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    padding-left: 8px;
+}
+#Productname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    padding-left: 8px;
+}
+#Price{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    padding-left: 8px;
+}
+#Category{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    padding-left: 8px;
+}
+#addproduct{
+    width: 300px;
+    height: 60px;
+    border: none;
+    border-radius: 17px;
+	padding: 15px;
+    padding-left: 7px;
+    color: white;
+	font-weight:800;
+	font-size:1.0rem;
+	background-color:#329d37;
+
+
+}
+ </style>
+</head>
+<body>
+<div class="product">
+<fieldset>
+ <form  method="POST" action="addproduct.php">
+	     <legend><h1><b>Add New Product</b></h1><legend>
+	    <label><b>Product ID</b>
+        </label>
+        <input type="text" name="Productid" id="Productid" placeholder="Product ID" required>
+        <br><br>
+		<label><b>Product Name</b>
+        </label>
+        <input type="text" name="Productname" id="Productname" placeholder="Product Name" required>
+        <br><br>
+        <label><b>Price</b>
+        </label>
+        <input type="text" name="Price" id="Price" placeholder="Price" required>
+        <br><br>
+		<label><b>Category</b>
+        </label>
+        <input type="text" name="Category" id="Category" placeholder="Category" required>
+        <br><br>
+		<input type="submit" name="addproduct" id="addproduct" value="Add Product">
+		<br><br>
+   </form>
+</fieldset>
+</div>
+</body>
+</html>

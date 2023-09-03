@@ -1,0 +1,1132 @@
+<h2>Birthday cakes</h2>
+    <!-- Product Section Start-->
+    <div class="product-section section pt-120 pb-120">
+        <div class="container">
+            
+            <!-- Product Wrapper Start-->
+            <div class="row">
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake02.jpeg" alt="Product"></a>
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Holiday Candle</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake08.jpg" alt="Product"></a>
+                           
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Christmas Tree</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake16.jpg" alt="Product"></a>
+                            
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Santa Claus Doll</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>    
+				<!-- Product End-->
+                <br>
+				
+				
+    <!-- Product Section Start-->
+    <div class="product-section section pt-120 pb-120">
+        <div class="container">
+            
+            <!-- Product Wrapper Start-->
+            <div class="row">
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake03.jpg" alt="Product"></a>
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Holiday Candle</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake18.jpg" alt="Product"></a>
+                            
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Santa Claus Doll</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>    
+				
+				<!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake26.jpg" alt="Product"></a>
+                           
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Christmas Tree</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+				
+    
+    <h2>Birthday cakes for mother</h2>
+    <!-- Product Section Start-->
+    <div class="product-section section pt-120 pb-120">
+        <div class="container">
+            
+            <!-- Product Wrapper Start-->
+            <div class="row">
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake09.jpg" alt="Product"></a>
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Holiday Candle</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake21.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Christmas Tree</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake19.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Santa Claus Doll</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>    
+				<!-- Product End-->
+                
+	<h2>Birthday cakes for father</h2>
+    <!-- Product Section Start-->
+    <div class="product-section section pt-120 pb-120">
+        <div class="container">
+            
+            <!-- Product Wrapper Start-->
+            <div class="row">
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake10.jpg" alt="Product"></a>
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Holiday Candle</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake23.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Christmas Tree</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake24.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Santa Claus Doll</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>    
+				<!-- Product End-->
+				
+				
+				<h2>Mother's Day cakes</h2>
+    <!-- Product Section Start-->
+    <div class="product-section section pt-120 pb-120">
+        <div class="container">
+            
+            <!-- Product Wrapper Start-->
+            <div class="row">
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake01.jpg" alt="Product"></a>
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Holiday Candle</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake04.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Christmas Tree</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake05.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Santa Claus Doll</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>    
+				<!-- Product End-->
+                
+                
+				<h2>Father's Day Cakes</h2>
+    <!-- Product Section Start-->
+    <div class="product-section section pt-120 pb-120">
+        <div class="container">
+            
+            <!-- Product Wrapper Start-->
+            <div class="row">
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake06.jpg" alt="Product"></a>
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Holiday Candle</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake07.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Christmas Tree</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake20.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Santa Claus Doll</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>    
+				<!-- Product End-->
+                
+				<h2>Anniversery Cakes</h2>
+    <!-- Product Section Start-->
+    <div class="product-section section pt-120 pb-120">
+        <div class="container">
+            
+            <!-- Product Wrapper Start-->
+            <div class="row">
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake11.jpg" alt="Product"></a>
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Holiday Candle</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake12.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Christmas Tree</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake25.jpeg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Santa Claus Doll</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>    
+				<!-- Product End-->
+                
+				<h2>Wedding Cakes</h2>
+    <!-- Product Section Start-->
+    <div class="product-section section pt-120 pb-120">
+        <div class="container">
+            
+            <!-- Product Wrapper Start-->
+            <div class="row">
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake13.jpg" alt="Product"></a>
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Holiday Candle</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake14.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Christmas Tree</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    
+                </div><!-- Product End-->
+                
+                <!-- Product Start-->
+                <div class="col-lg-4 col-md-6 col-12 mb-60">
+                   
+                    <div class="product">
+
+                        <!-- Image Wrapper -->
+                        <div class="image">
+                            <!-- Image -->
+                            <a href="product-details.html" class="img"><img src="cakes/cake15.jpg" alt="Product"></a>
+                            <!-- Wishlist -->
+                            <a href="#" class="wishlist"><i class="fa fa-heart-o"></i></a>
+                            <!-- Label -->
+                            <!-- <span class="label">New</span> -->
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="content">
+                            
+                            <!-- Head Content -->
+                            <div class="head fix">
+                               
+                                <!-- Title & Category -->
+                                <div class="title-category float-left">
+                                    <h5 class="title"><a href="product-details.html">Santa Claus Doll</a></h5>
+                                    <a href="shop.html" class="category">Catalog</a>
+                                </div>
+                                <!-- Price -->
+                                <div class="price float-right">
+                                    <span class="new">$38</span>
+                                    <!-- Old Price Mockup If Need -->
+                                    <!-- <span class="old">$46</span> -->
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- Action Button -->
+                            <div class="action-button fix">
+                                <a href="#">add to cart</a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>    
+				<!-- Product End-->              
+            </div><!-- Product Wrapper End-->
+            
+        </div>
+    </div><!-- Product Section End-->
